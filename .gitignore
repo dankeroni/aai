@@ -1,0 +1,4 @@
+data/
+modelnet_data/
+temp/
+*_state_dicts.pt
